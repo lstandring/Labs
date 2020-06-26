@@ -2,6 +2,8 @@
 
 ## xWorld 1-1
 
+:bowtie:
+
 xToward the end of World 1-1 in Nintendo's Super Mario Brothers, Mario must ascend right-aligned pyramid of blocks, a la the below.
 
 ![screenshot of Mario jumping up a right-aligned pyramid](pyramid.png)
